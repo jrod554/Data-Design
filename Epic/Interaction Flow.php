@@ -7,7 +7,7 @@
 		<h1>Use Case:</h1>
 		<div>
 			<p><b>Title:</b> Searching for an underground artist to like,repost, and add their song to a playlist.</p>
-			<p><b>Description:</b> Sarah wants to be able</p>
+			<p><b>Description:</b> Sarah wants to be able to add the songs that she likes and reposts to her playlist</p>
 			<p><b>Name of user & their role:</b> Jane; loves music and streams her favorite underground artists.</p>
 			<p><b>Usage preconditions:</b> Has to have a soundcloud account in order to like, repost, or
 				add to a playlist.</p>
