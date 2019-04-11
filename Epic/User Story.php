@@ -7,7 +7,7 @@
 		<h1>User Story</h1>
 		<div>
 			<p> As a user, Sarah loves finding new music. Her main purpose using soundcloud is to like, repost
-			and add them to her playlist without paying for a subscription.</p>
+			and finally add songs to her playlist without paying for a subscription.</p>
 		</div>
 		<a href="index.php">Home</a>
 	</body>
