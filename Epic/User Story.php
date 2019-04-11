@@ -6,9 +6,8 @@
 	<body>
 		<h1>User Story</h1>
 		<div>
-			<p> As a user, Sarah loves finding new music. The only problem is most of the
-			streaming services she uses doesn't have the particular artist she's looking
-			for. Or she has to be a subscription which doesn't sit well with her.</p>
+			<p> As a user, Sarah loves finding new music. Her main purpose using soundcloud is to like, repost
+			and add them to her playlist without paying for a subscription.</p>
 		</div>
 		<a href="index.php">Home</a>
 	</body>

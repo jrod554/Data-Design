@@ -17,7 +17,8 @@
 				<li> <b>Occupation:</b> College Student who is both frustrated and overwhelmed and needs to find an
 					outlet to relax. </li>
 				<li> <b>Attitude:</b> Likes to find underground artists and leave comments under their song.</li>
-				<li> <b>Technology:</b> iPhone(although she still considers samsung.) Laptop: Windows 10.</li>
+				<li> <b>Technology:</b> iPhone8 plus iOS 12.2 (Doesn't want to upgrade and lose the clickable button.)
+					iPad iOS 12.2 Laptop: HP, Windows 10.</li>
 				<li> <b>Needs/Goals/Features:</b></li>
 				<li> Wanting to leave a review with a grading system. Whether it's out of 10 or out of 5 stars.</li>
 				<li> To have a cleaner UI on the phone app that can track individual followers.</li>
