@@ -7,10 +7,10 @@
 <body>
 	<h1>Data Design Project</h1>
 </body>
-	<a href="Persona.php">Persona</a>
+	<a href="persona.php">Persona</a>
 	<br>
 	<a href="User%20Story.php">User Story</a>
 	<br>
-	<a href="Interaction Flow.php">Interaction Flow</a>
+	<a href="interaction-flow.php">Interaction Flow</a>
 	<br>
 </html>

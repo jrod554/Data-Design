@@ -6,7 +6,7 @@
 	<body>
 		<h1>User Persona:</h1>
 		<div>
-			<img src="Soundcloud-Feature.jpg">
+			<img src="soundcloud-feature.jpg">
 		</div>
 		<div>
 			<ul>
