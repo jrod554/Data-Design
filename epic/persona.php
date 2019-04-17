@@ -6,7 +6,7 @@
 	<body>
 		<h1>User Persona:</h1>
 		<div>
-			<img src="soundcloud-feature.jpg">
+			<img src="soundcloud-user.png">
 		</div>
 		<div>
 			<ul>

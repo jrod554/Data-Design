@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang ="en">
+<a lang ="en">
 <head>
 	<meta charset="UTF-8">
 	<title>Data Design Project</title>
@@ -14,4 +14,6 @@
 	<a href="interaction-flow.php">Interaction Flow</a>
 	<br>
 	<a href="erd.png">ERD</a>
+	<br>
+	<a href="conceptual-model.php">Conceptual Model</a>
 </html>
