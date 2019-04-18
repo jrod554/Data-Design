@@ -19,13 +19,14 @@
 		<ul>
 			<li>playlistId</li>
 			<li>playlistProfileId</li>
+			<li>playlistTitle</li>
 		</ul>
 		</div>
 		<div>
 			<p><b>playlistSong</b></p>
 		<ul>
-			<li>playlistsongSongId</li>
-			<li>playlistsongPlaylistId</li>
+			<li>playlistSongSongId</li>
+			<li>playlistSongPlaylistId</li>
 		</ul>
 		</div>
 		<div>
@@ -34,6 +35,7 @@
 			<li>songGenre</li>
 			<li>songId</li>
 			<li>songArtist</li>
+			<li>songTitle</li>
 		</ul>
 		</div>
 	</body>

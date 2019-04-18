@@ -18,6 +18,7 @@ create table profile (
 CREATE TABLE playlist(
 	playlistProfileId BINARY(16) NOT NULL,
 	playlistId BINARY(16) NOT NULL,
+	playlistTitle VARCHAR(32) NOT NULL,
 	INDEX(playlistProfileId),
 	PRIMARY KEY (playlistId),
 	FOREIGN KEY(playlistProfileId) REFERENCES profile(profileId)
@@ -26,10 +27,9 @@ CREATE TABLE playlist(
 
 CREATE TABLE Song(
 	songId BINARY(16) NOT NULL,
-	songArtist BINARY(16) NOT NULL,
+	songArtist VARCHAR(32) NOT NULL,
 	songGenre VARCHAR (32) NOT NULL,
-	UNIQUE(songArtist),
-	UNIQUE(songGenre),
+	songTitle VARCHAR (32) NOT NULL,
 	PRIMARY KEY(songId)
 );
 
