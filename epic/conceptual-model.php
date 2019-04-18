@@ -12,22 +12,28 @@
 			<li>profileAtHandle</li>
 			<li>profileId</li>
 			<li>profileEmail</li>
-			<li>profilePhone</li>
-			<li>profileHash</li>
 		</ul>
 		</div>
 		<div>
-		<p><b>Song</b></p>
+		<p><b>Playlist</b></p>
 		<ul>
-			<li>songId</li>
-			<li>songProfileId</li>
-		</ul>
-		</div>
-		<div>
-			<p><b>Playlist</b></p>
-		<ul>
+			<li>playlistId</li>
 			<li>playlistProfileId</li>
-			<li>playlistSongId</li>
+		</ul>
+		</div>
+		<div>
+			<p><b>playlistSong</b></p>
+		<ul>
+			<li>playlistsongSongId</li>
+			<li>playlistsongPlaylistId</li>
+		</ul>
+		</div>
+		<div>
+			<p><b>Song</b></p>
+		<ul>
+			<li>songGenre</li>
+			<li>songId</li>
+			<li>songArtist</li>
 		</ul>
 		</div>
 	</body>
