@@ -16,4 +16,6 @@
 	<a href="erd.png">ERD</a>
 	<br>
 	<a href="conceptual-model.php">Conceptual Model</a>
+	<br>
+	<a href="table.ddl">DDL Table</a>
 </html>
