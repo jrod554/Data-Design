@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title><b>Conceptual Model</b></title>
+		<title>Conceptual Model</title>
 	</head>
 	<body>
 

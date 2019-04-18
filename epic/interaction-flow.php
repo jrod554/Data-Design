@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title>Use Case/Interaction Flow</title>
 		<meta charset="UTF-8">
 	</head>
 	<body>
@@ -14,7 +15,7 @@
 				playlist for future listens.</p>
 		</div>
 		<div>
-			<h2>Interaction Flow></h2>
+			<h2>Interaction Flow</h2>
 			<ul>
 				<li>Sarah enters soundcloud.com into her web browser</li>
 				<li>It leads her to the soundcloud homepage.</li>

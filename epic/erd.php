@@ -1,1 +1,1 @@
-<img src="erd.png"
+<img src="erd.png" alt="erd.png">

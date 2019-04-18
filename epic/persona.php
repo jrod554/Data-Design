@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<title>User Persona</title>
 	<meta charset="UTF-8">
 </head>
 	<body>
 		<h1>User Persona:</h1>
 		<div>
-			<img src="soundcloud-user.png">
+			<img src="soundcloud-user.png" alt="soundcloud-user.png">
 		</div>
 		<div>
 			<ul>
