@@ -30,6 +30,7 @@ CREATE TABLE Song(
 	songArtist VARCHAR(32) NOT NULL,
 	songGenre VARCHAR (32) NOT NULL,
 	songTitle VARCHAR (32) NOT NULL,
+	INDEX(songId),
 	PRIMARY KEY(songId)
 );
 
