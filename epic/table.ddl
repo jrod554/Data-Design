@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS Song;
-DROP TABLE IF EXISTS playlistsong;
+DROP TABLE IF EXISTS playlistSong;
 DROP TABLE IF EXISTS playlist;
+DROP TABLE IF EXISTS Song;
 DROP TABLE IF EXISTS profile;
 
 
@@ -26,9 +26,9 @@ CREATE TABLE playlist(
 
 CREATE TABLE Song(
 	songId BINARY(16) NOT NULL,
-	songArtist VARCHAR(32) NOT NULL,
-	songGenre VARCHAR (32) NOT NULL,
-	songTitle VARCHAR (32) NOT NULL,
+	songArtist VARCHAR(128) NOT NULL,
+	songGenre VARCHAR (128) NOT NULL,
+	songTitle VARCHAR (128) NOT NULL,
 	INDEX(songId),
 	PRIMARY KEY(songId)
 );
