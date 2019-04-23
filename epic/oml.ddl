@@ -17,5 +17,6 @@ DELETE FROM Song WHERE SongId = UNHEX('194341346aaa4025ade1887cb9b169f0');
 
 SELECT profileId, profileAtHandle, profileEmail from profile WHERE profileId = UNHEX('fba6bebfc52842399b12beb52d833246');
 SELECT profile.profileId, profile.profileAtHandle, profile.Email FROM profile
-INNER JOIN playlist on profile.profileId = playlist.playlistId WHERE profile.profileId = TRUE
+INNER JOIN playlistProfileId on profile.profileId = playlist.ProfileId
+WHERE profile.profileId = UNHEX('864e8a0d17c74d72862b1af515dfb8cb')
 
